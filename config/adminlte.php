@@ -110,11 +110,6 @@ return [
     'menu' => [
         'MAIN NAVIGATION',
         [
-            'text'        => 'Alternatif',
-            'url'         => 'alternatif',
-            'icon'        => 'address-card-o',
-        ],
-        [
             'text'        => 'Kriteria',
             'url'         => 'kriteria',
             'icon'        => 'percent',
@@ -123,6 +118,11 @@ return [
             'text'        => 'Crips',
             'url'         => 'crips',
             'icon'        => 'sliders',
+        ],
+        [
+            'text'        => 'Alternatif',
+            'url'         => 'alternatif',
+            'icon'        => 'address-card-o',
         ],
         [
             'text'        => 'Perhitungan',

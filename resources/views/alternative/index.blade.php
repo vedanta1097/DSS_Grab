@@ -23,7 +23,7 @@
 							<tr>
 								<th class="center-table">No</th>
 								<th>Nama Alternatif</th>
-								<th>Keterangan</th>
+								<th>Plat Kendaraan</th>
 								<th class="center-table">Aksi</th>
 							</tr>
 						</thead>
@@ -32,7 +32,7 @@
 							<tr>
 								<td class="center-table">{{ $no+1 }}</td>
 								<td>{{ $alt->nama }}</td>
-								<td>{{ $alt->keterangan }}</td>
+								<td>{{ $alt->plat }}</td>
 								<td class="center-table">
 									<button type="button" class="btn btn-warning margin-button open-edit-modal" 
 									data-toggle="modal" value="{{ $alt->id }}">

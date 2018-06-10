@@ -16,7 +16,7 @@ class CreateAlternativesTable extends Migration
         Schema::create('alternatives', function (Blueprint $table) {
             $table->increments('id');
             $table->string('nama');
-            $table->text('keterangan')->nullable();
+            $table->text('plat')->nullable();
             $table->timestamps();
         });
     }
