@@ -1,0 +1,39 @@
+.pagination-right {
+	margin-right: 2em;
+	text-align: right;
+}
+.margin-button {
+	margin-right: 1em;
+}
+.home-title {
+	text-align: center; 
+	margin-top: 2em!important; 
+	font-size: 3em!important;
+}
+.home-text {
+	text-indent: 2em;
+	font-size: 1.5em;
+}
+.center-table {
+	text-align: center;
+	vertical-align: middle;
+}
+.alert-danger {
+	margin-top: 1em;
+    color: #a94442!important;
+    background-color: #f2dede!important;
+    border-color: #ebccd1!important;
+}
+.alert-warning {
+    color: #8a6d3b!important;
+    background-color: #fcf8e3!important;
+    border-color: #faebcc!important;
+}
+.text-value {
+	color: #dd4814;
+}
+.alert-success {
+    color: #3c763d!important;
+    background-color: #dff0d8!important;
+    border-color: #d6e9c6!important;
+}
