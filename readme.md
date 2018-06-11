@@ -3,7 +3,8 @@
 Created using Laravel for backend and AdminLTE for frontend.
 Thanks to github.com/jeroennoten/Laravel-AdminLTE for providing easy AdminLTE integration with Laravel 5
 
-##Run it locally
+## Run it locally
+
 To install:
   1. Create database `dss_grab`
   2. Change the .env file into your own database's username and password:
