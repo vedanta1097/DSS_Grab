@@ -16,3 +16,6 @@ To install:
   2. Go to your project folder and run `php artisan migrate`
   3. `php artisan serve`
   
+  ## Screenshot
+  
+  https://puu.sh/B5n8c/c58652476a.jpg
