@@ -18,4 +18,5 @@ To install:
   
   ## Screenshot
   
-  https://puu.sh/B5n8c/c58652476a.jpg
+  ![1](https://user-images.githubusercontent.com/17045245/43372804-7766be9a-93d7-11e8-8297-c7a83cf7aa8d.jpg)
+  ![2](https://user-images.githubusercontent.com/17045245/43372809-8c82f096-93d7-11e8-8254-b15410249686.jpg)
