@@ -1,7 +1,7 @@
 # DSS_Grab
 
 Created using Laravel for backend and AdminLTE for frontend.
-Thanks to github.com/jeroennoten/Laravel-AdminLTE for providing easy AdminLTE integration with Laravel 5
+easy AdminLTE integration with Laravel 5 : github.com/jeroennoten/Laravel-AdminLTE
 
 ## Run it locally
 
